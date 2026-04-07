@@ -1,4 +1,4 @@
-package com.taufik.myprofileapp
+package com.taufik.notesapp
 
 import org.junit.Test
 
