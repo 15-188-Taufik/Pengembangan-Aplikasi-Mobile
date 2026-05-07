@@ -18,7 +18,7 @@
 
 | Notes List | Add / Edit Note | Search | Settings |
 |:---:|:---:|:---:|:---:|
-| ![Notes List](screenshots/screen_notes_list.png) | ![Add Edit](screenshots/screen_add_edit.png) | ![Search](screenshots/screen_search.png) | ![Settings](screenshots/screen_settings.png) |
+| ![Notes List](screenshots/screen_notes_list.jpeg) | ![Add Edit](screenshots/screen_add_edit.jpeg) | ![Search](screenshots/screen_search.jpeg) | ![Settings](screenshots/screen_settings.jpeg) |
 | Browse all your notes | Create or edit a note | Real-time search by title or content | Toggle dark mode |
 
 ---
