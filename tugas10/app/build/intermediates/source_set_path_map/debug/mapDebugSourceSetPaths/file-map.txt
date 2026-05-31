@@ -1,0 +1,57 @@
+com.taufik.notesapp-ui-geometry-release-0 C:\Users\taufi\.gradle\caches\8.10.2\transforms\0e71b4c02f39fb1c8fdf076bba6be386\transformed\ui-geometry-release\res
+com.taufik.notesapp-navigation-compose-2.8.3-1 C:\Users\taufi\.gradle\caches\8.10.2\transforms\0ee6886a988121eb1a0218190dabc938\transformed\navigation-compose-2.8.3\res
+com.taufik.notesapp-navigation-common-ktx-2.8.3-2 C:\Users\taufi\.gradle\caches\8.10.2\transforms\11d5ac6f12c5b4601f470c331afe6076\transformed\navigation-common-ktx-2.8.3\res
+com.taufik.notesapp-runtime-saveable-release-3 C:\Users\taufi\.gradle\caches\8.10.2\transforms\144ec51f41b6e3a787a37f1dab0c89a9\transformed\runtime-saveable-release\res
+com.taufik.notesapp-savedstate-1.2.1-4 C:\Users\taufi\.gradle\caches\8.10.2\transforms\17e425d8bbeee06595c3d491b1c0d180\transformed\savedstate-1.2.1\res
+com.taufik.notesapp-lifecycle-viewmodel-compose-release-5 C:\Users\taufi\.gradle\caches\8.10.2\transforms\19063962a05a299871cd6003ef92d4c1\transformed\lifecycle-viewmodel-compose-release\res
+com.taufik.notesapp-emoji2-1.3.0-6 C:\Users\taufi\.gradle\caches\8.10.2\transforms\1f46ea605f2054a7bbd01e8e377279cb\transformed\emoji2-1.3.0\res
+com.taufik.notesapp-ui-tooling-release-7 C:\Users\taufi\.gradle\caches\8.10.2\transforms\2811d0c647729972e52c2a609c0b4214\transformed\ui-tooling-release\res
+com.taufik.notesapp-ui-unit-release-8 C:\Users\taufi\.gradle\caches\8.10.2\transforms\2f1951c1c4378a4ac41294bbb1779362\transformed\ui-unit-release\res
+com.taufik.notesapp-navigation-runtime-2.8.3-9 C:\Users\taufi\.gradle\caches\8.10.2\transforms\2f4b6737fe0d236c8f03a046f5317562\transformed\navigation-runtime-2.8.3\res
+com.taufik.notesapp-material-release-10 C:\Users\taufi\.gradle\caches\8.10.2\transforms\2f7ef45da2e157fa3070e5b9ec56ed5a\transformed\material-release\res
+com.taufik.notesapp-profileinstaller-1.3.1-11 C:\Users\taufi\.gradle\caches\8.10.2\transforms\2ff60c7187212e1f48a8a3d5c23c9857\transformed\profileinstaller-1.3.1\res
+com.taufik.notesapp-ui-text-release-12 C:\Users\taufi\.gradle\caches\8.10.2\transforms\35bed942252e69a1d2bc77e3a6c09cfc\transformed\ui-text-release\res
+com.taufik.notesapp-material-ripple-release-13 C:\Users\taufi\.gradle\caches\8.10.2\transforms\37c4a489b9218903b6933794f823982a\transformed\material-ripple-release\res
+com.taufik.notesapp-animation-release-14 C:\Users\taufi\.gradle\caches\8.10.2\transforms\3f13ad745dce31393a7347ad63c86074\transformed\animation-release\res
+com.taufik.notesapp-graphics-path-1.0.1-15 C:\Users\taufi\.gradle\caches\8.10.2\transforms\47b0ef6f67cd10d2f317e91b4b4b1861\transformed\graphics-path-1.0.1\res
+com.taufik.notesapp-ui-test-manifest-1.7.5-16 C:\Users\taufi\.gradle\caches\8.10.2\transforms\48e4e5183eaa1b0291f95a0a8ea60fd4\transformed\ui-test-manifest-1.7.5\res
+com.taufik.notesapp-navigation-runtime-ktx-2.8.3-17 C:\Users\taufi\.gradle\caches\8.10.2\transforms\492767d9f3bc2e73b98adf74f029c7b6\transformed\navigation-runtime-ktx-2.8.3\res
+com.taufik.notesapp-ui-graphics-release-18 C:\Users\taufi\.gradle\caches\8.10.2\transforms\57c0e4d44eefa896ec73f3f0a15bd536\transformed\ui-graphics-release\res
+com.taufik.notesapp-animation-core-release-19 C:\Users\taufi\.gradle\caches\8.10.2\transforms\57db9236e90570a93c8229cc70a06111\transformed\animation-core-release\res
+com.taufik.notesapp-lifecycle-process-2.8.7-20 C:\Users\taufi\.gradle\caches\8.10.2\transforms\59ea574fe12975cca260a65ec6700238\transformed\lifecycle-process-2.8.7\res
+com.taufik.notesapp-runtime-release-21 C:\Users\taufi\.gradle\caches\8.10.2\transforms\624c9a16909fb60a920cb36c5175f95e\transformed\runtime-release\res
+com.taufik.notesapp-savedstate-ktx-1.2.1-22 C:\Users\taufi\.gradle\caches\8.10.2\transforms\763ebab724735463eaf568334420f723\transformed\savedstate-ktx-1.2.1\res
+com.taufik.notesapp-lifecycle-viewmodel-savedstate-2.8.7-23 C:\Users\taufi\.gradle\caches\8.10.2\transforms\7c9aecc1e23dd8e557575c1913bb8847\transformed\lifecycle-viewmodel-savedstate-2.8.7\res
+com.taufik.notesapp-activity-compose-1.9.3-24 C:\Users\taufi\.gradle\caches\8.10.2\transforms\816f07ab1583a4086f5b33e0405c2389\transformed\activity-compose-1.9.3\res
+com.taufik.notesapp-lifecycle-livedata-core-2.8.7-25 C:\Users\taufi\.gradle\caches\8.10.2\transforms\84d0e975deb2dd28e2e444b021372d66\transformed\lifecycle-livedata-core-2.8.7\res
+com.taufik.notesapp-lifecycle-runtime-compose-release-26 C:\Users\taufi\.gradle\caches\8.10.2\transforms\9342c6489a646b99ef8519348db637e8\transformed\lifecycle-runtime-compose-release\res
+com.taufik.notesapp-lifecycle-viewmodel-ktx-2.8.7-27 C:\Users\taufi\.gradle\caches\8.10.2\transforms\98a5dbd4263ae4dd1f141ed288a2bf5f\transformed\lifecycle-viewmodel-ktx-2.8.7\res
+com.taufik.notesapp-foundation-layout-release-28 C:\Users\taufi\.gradle\caches\8.10.2\transforms\a60f74a1b8cd767e3ba9b5193fd567b4\transformed\foundation-layout-release\res
+com.taufik.notesapp-annotation-experimental-1.4.1-29 C:\Users\taufi\.gradle\caches\8.10.2\transforms\adf0dbed81537d06d6cb97cf5ed2a6d4\transformed\annotation-experimental-1.4.1\res
+com.taufik.notesapp-startup-runtime-1.1.1-30 C:\Users\taufi\.gradle\caches\8.10.2\transforms\b052f58821fa5d75b549ba3c6d401ddc\transformed\startup-runtime-1.1.1\res
+com.taufik.notesapp-ui-util-release-31 C:\Users\taufi\.gradle\caches\8.10.2\transforms\bc1687df43fc9ff7feb795930e027c41\transformed\ui-util-release\res
+com.taufik.notesapp-activity-ktx-1.9.3-32 C:\Users\taufi\.gradle\caches\8.10.2\transforms\c0d7160f9c2d50cf2a6b49b59d1bf839\transformed\activity-ktx-1.9.3\res
+com.taufik.notesapp-lifecycle-runtime-ktx-release-33 C:\Users\taufi\.gradle\caches\8.10.2\transforms\c54907a0996b73708ffe4294cc63a3cc\transformed\lifecycle-runtime-ktx-release\res
+com.taufik.notesapp-ui-tooling-data-release-34 C:\Users\taufi\.gradle\caches\8.10.2\transforms\cb3ddf8a606ceef334fd2b8169926532\transformed\ui-tooling-data-release\res
+com.taufik.notesapp-material3-release-35 C:\Users\taufi\.gradle\caches\8.10.2\transforms\cd1f1302c8882c36a9d05ffc5a1ba6ce\transformed\material3-release\res
+com.taufik.notesapp-ui-release-36 C:\Users\taufi\.gradle\caches\8.10.2\transforms\cdec13bdd4205933ebcef6379c96b224\transformed\ui-release\res
+com.taufik.notesapp-material-icons-core-release-37 C:\Users\taufi\.gradle\caches\8.10.2\transforms\cea11741569aaec94a368e1b2f95efbc\transformed\material-icons-core-release\res
+com.taufik.notesapp-tracing-1.2.0-38 C:\Users\taufi\.gradle\caches\8.10.2\transforms\d14e45b4e5293811cf737a798b862e3a\transformed\tracing-1.2.0\res
+com.taufik.notesapp-navigation-common-2.8.3-39 C:\Users\taufi\.gradle\caches\8.10.2\transforms\d254537f73cedc24fe20639c4bd5822a\transformed\navigation-common-2.8.3\res
+com.taufik.notesapp-ui-tooling-preview-release-40 C:\Users\taufi\.gradle\caches\8.10.2\transforms\da91318860a75f3c7454cc6222fc8b8f\transformed\ui-tooling-preview-release\res
+com.taufik.notesapp-lifecycle-runtime-release-41 C:\Users\taufi\.gradle\caches\8.10.2\transforms\e26653a82bbcf02b88686450403c203e\transformed\lifecycle-runtime-release\res
+com.taufik.notesapp-material-icons-extended-release-42 C:\Users\taufi\.gradle\caches\8.10.2\transforms\e69969ea5cfc3f7f2e731843a56765a7\transformed\material-icons-extended-release\res
+com.taufik.notesapp-customview-poolingcontainer-1.0.0-43 C:\Users\taufi\.gradle\caches\8.10.2\transforms\e8096e91327f29592aa483b64d1ab9ad\transformed\customview-poolingcontainer-1.0.0\res
+com.taufik.notesapp-foundation-release-44 C:\Users\taufi\.gradle\caches\8.10.2\transforms\e81f00a4825a349a9cf38a5c10361221\transformed\foundation-release\res
+com.taufik.notesapp-core-runtime-2.2.0-45 C:\Users\taufi\.gradle\caches\8.10.2\transforms\edb1b16fd6cb906a5fca112ded9404d6\transformed\core-runtime-2.2.0\res
+com.taufik.notesapp-core-1.15.0-46 C:\Users\taufi\.gradle\caches\8.10.2\transforms\f116c5cd85c5314ebbcb7ecfe6a81e5e\transformed\core-1.15.0\res
+com.taufik.notesapp-lifecycle-viewmodel-release-47 C:\Users\taufi\.gradle\caches\8.10.2\transforms\f3044078662df2403070347a7f85b9c0\transformed\lifecycle-viewmodel-release\res
+com.taufik.notesapp-activity-1.9.3-48 C:\Users\taufi\.gradle\caches\8.10.2\transforms\fd959fef908ec4e81b244892d6f3f17b\transformed\activity-1.9.3\res
+com.taufik.notesapp-core-ktx-1.15.0-49 C:\Users\taufi\.gradle\caches\8.10.2\transforms\fe05e15fe98974bc24efc143ba0603d3\transformed\core-ktx-1.15.0\res
+com.taufik.notesapp-pngs-50 D:\semester 6\PAM\tugas_praktikum\tugas5\app\build\generated\res\pngs\debug
+com.taufik.notesapp-resValues-51 D:\semester 6\PAM\tugas_praktikum\tugas5\app\build\generated\res\resValues\debug
+com.taufik.notesapp-packageDebugResources-52 D:\semester 6\PAM\tugas_praktikum\tugas5\app\build\intermediates\incremental\debug\packageDebugResources\merged.dir
+com.taufik.notesapp-packageDebugResources-53 D:\semester 6\PAM\tugas_praktikum\tugas5\app\build\intermediates\incremental\debug\packageDebugResources\stripped.dir
+com.taufik.notesapp-debug-54 D:\semester 6\PAM\tugas_praktikum\tugas5\app\build\intermediates\merged_res\debug\mergeDebugResources
+com.taufik.notesapp-debug-55 D:\semester 6\PAM\tugas_praktikum\tugas5\app\src\debug\res
+com.taufik.notesapp-main-56 D:\semester 6\PAM\tugas_praktikum\tugas5\app\src\main\res

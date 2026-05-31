@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.example.notesapp.ui.notes.NotesScreenTest" tests="4" skipped="0" failures="0" errors="0" timestamp="2026-05-31T08:49:54.572Z" hostname="INBOOK_X1" time="8.01">
+  <properties/>
+  <testcase name="displaysNotesListItems" classname="com.example.notesapp.ui.notes.NotesScreenTest" time="6.817"/>
+  <testcase name="displaysNotesTitleAndOnlineStatus" classname="com.example.notesapp.ui.notes.NotesScreenTest" time="0.291"/>
+  <testcase name="clickDeleteNoteIcon_triggersViewModelDelete" classname="com.example.notesapp.ui.notes.NotesScreenTest" time="0.676"/>
+  <testcase name="displaysEmptyStateTextWhenNotesEmpty" classname="com.example.notesapp.ui.notes.NotesScreenTest" time="0.226"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

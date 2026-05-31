@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.example.notesapp.data.repository.NoteRepositoryTest" tests="6" skipped="0" failures="0" errors="0" timestamp="2026-05-31T08:47:45.385Z" hostname="INBOOK_X1" time="0.772">
+  <properties/>
+  <testcase name="searchNotes_returnsMatchingNotes" classname="com.example.notesapp.data.repository.NoteRepositoryTest" time="0.712"/>
+  <testcase name="getAllNotes_returnsNotesSortedByLatestUpdated" classname="com.example.notesapp.data.repository.NoteRepositoryTest" time="0.014"/>
+  <testcase name="deleteNote_removesNoteSuccessfully" classname="com.example.notesapp.data.repository.NoteRepositoryTest" time="0.01"/>
+  <testcase name="insertNote_addsNoteToDatabase" classname="com.example.notesapp.data.repository.NoteRepositoryTest" time="0.006"/>
+  <testcase name="getNoteById_returnsCorrectNote" classname="com.example.notesapp.data.repository.NoteRepositoryTest" time="0.014"/>
+  <testcase name="updateNote_modifiesNoteAndUpdatesTimestamp" classname="com.example.notesapp.data.repository.NoteRepositoryTest" time="0.013"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[SLF4J: Failed to load class "org.slf4j.impl.StaticLoggerBinder".
+SLF4J: Defaulting to no-operation (NOP) logger implementation
+SLF4J: See http://www.slf4j.org/codes.html#StaticLoggerBinder for further details.
+]]></system-err>
+</testsuite>
