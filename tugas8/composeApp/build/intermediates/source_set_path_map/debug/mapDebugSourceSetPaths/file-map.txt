@@ -1,0 +1,64 @@
+com.example.notesapp.composeApp-annotation-experimental-1.4.1-0 C:\Users\taufi\.gradle\caches\8.13\transforms\06d20565fa932cb07f2bf9cffd5d3f28\transformed\annotation-experimental-1.4.1\res
+com.example.notesapp.composeApp-sqlite-2.4.0-1 C:\Users\taufi\.gradle\caches\8.13\transforms\0a9846206f063fa8136e14dab203dae8\transformed\sqlite-2.4.0\res
+com.example.notesapp.composeApp-savedstate-ktx-1.2.1-2 C:\Users\taufi\.gradle\caches\8.13\transforms\14d6a53397365f9ed378f444170b329b\transformed\savedstate-ktx-1.2.1\res
+com.example.notesapp.composeApp-customview-poolingcontainer-1.0.0-3 C:\Users\taufi\.gradle\caches\8.13\transforms\1c245755f313dbcf4a08f41d690ccbe8\transformed\customview-poolingcontainer-1.0.0\res
+com.example.notesapp.composeApp-emoji2-views-helper-1.3.0-4 C:\Users\taufi\.gradle\caches\8.13\transforms\1eb83c6394e29d8598f1949b8a7de46e\transformed\emoji2-views-helper-1.3.0\res
+com.example.notesapp.composeApp-lifecycle-livedata-2.8.7-5 C:\Users\taufi\.gradle\caches\8.13\transforms\200559c80da32cef25dc760f5a167463\transformed\lifecycle-livedata-2.8.7\res
+com.example.notesapp.composeApp-animation-release-6 C:\Users\taufi\.gradle\caches\8.13\transforms\279f31097f93b6b57d435f26474bd6fa\transformed\animation-release\res
+com.example.notesapp.composeApp-ui-util-release-7 C:\Users\taufi\.gradle\caches\8.13\transforms\2a6ee16774a859d00385b5cf2b056442\transformed\ui-util-release\res
+com.example.notesapp.composeApp-lifecycle-livedata-core-ktx-2.8.7-8 C:\Users\taufi\.gradle\caches\8.13\transforms\2c235cacc90e6b37c8370abed8860141\transformed\lifecycle-livedata-core-ktx-2.8.7\res
+com.example.notesapp.composeApp-navigation-common-2.8.3-9 C:\Users\taufi\.gradle\caches\8.13\transforms\30aebe9dd952ccfc97198a3939b4de73\transformed\navigation-common-2.8.3\res
+com.example.notesapp.composeApp-lifecycle-runtime-release-10 C:\Users\taufi\.gradle\caches\8.13\transforms\336b9834d3ae3a19086db941fc3df7ed\transformed\lifecycle-runtime-release\res
+com.example.notesapp.composeApp-navigation-common-ktx-2.8.3-11 C:\Users\taufi\.gradle\caches\8.13\transforms\3398519e46df01115a01ba9e6ee0c811\transformed\navigation-common-ktx-2.8.3\res
+com.example.notesapp.composeApp-activity-compose-1.9.3-12 C:\Users\taufi\.gradle\caches\8.13\transforms\34885ffa9710e3b23bb2d2ded9a7210c\transformed\activity-compose-1.9.3\res
+com.example.notesapp.composeApp-ui-text-release-13 C:\Users\taufi\.gradle\caches\8.13\transforms\34b1269aa82c2e6c067fe35f9981fc97\transformed\ui-text-release\res
+com.example.notesapp.composeApp-foundation-layout-release-14 C:\Users\taufi\.gradle\caches\8.13\transforms\3a584d9a3541527784362dd8e8314ec6\transformed\foundation-layout-release\res
+com.example.notesapp.composeApp-core-ktx-1.13.1-15 C:\Users\taufi\.gradle\caches\8.13\transforms\4391eb088e7ed245e482f8cb4af8c7b8\transformed\core-ktx-1.13.1\res
+com.example.notesapp.composeApp-lifecycle-viewmodel-savedstate-2.8.7-16 C:\Users\taufi\.gradle\caches\8.13\transforms\4b72f4ab8761e61113cdb3e1c546259e\transformed\lifecycle-viewmodel-savedstate-2.8.7\res
+com.example.notesapp.composeApp-lifecycle-viewmodel-ktx-2.8.7-17 C:\Users\taufi\.gradle\caches\8.13\transforms\4bb77c4ed144646d3f50639b42c37d6b\transformed\lifecycle-viewmodel-ktx-2.8.7\res
+com.example.notesapp.composeApp-lifecycle-runtime-compose-release-18 C:\Users\taufi\.gradle\caches\8.13\transforms\4f84dd96f9f9bc4a99e32ccab8b6637a\transformed\lifecycle-runtime-compose-release\res
+com.example.notesapp.composeApp-ui-tooling-preview-release-19 C:\Users\taufi\.gradle\caches\8.13\transforms\51a2d87809b092dd1ad21d14d2fe9e04\transformed\ui-tooling-preview-release\res
+com.example.notesapp.composeApp-lifecycle-viewmodel-compose-release-20 C:\Users\taufi\.gradle\caches\8.13\transforms\52168baadb5601e52259a635ab7271fc\transformed\lifecycle-viewmodel-compose-release\res
+com.example.notesapp.composeApp-emoji2-1.3.0-21 C:\Users\taufi\.gradle\caches\8.13\transforms\65ca1e08509c9ec3df693123fd93da37\transformed\emoji2-1.3.0\res
+com.example.notesapp.composeApp-animation-core-release-22 C:\Users\taufi\.gradle\caches\8.13\transforms\6879c9092040a35d64070820235c1638\transformed\animation-core-release\res
+com.example.notesapp.composeApp-material-ripple-release-23 C:\Users\taufi\.gradle\caches\8.13\transforms\68fc5f8af8da46cd9849bc4a010cc251\transformed\material-ripple-release\res
+com.example.notesapp.composeApp-ui-graphics-release-24 C:\Users\taufi\.gradle\caches\8.13\transforms\6e73cb8c2e3e3d5bbc1d3014e2b84c95\transformed\ui-graphics-release\res
+com.example.notesapp.composeApp-core-runtime-2.2.0-25 C:\Users\taufi\.gradle\caches\8.13\transforms\7ac4d36eaeb7e8c0ec3f9700c3bab338\transformed\core-runtime-2.2.0\res
+com.example.notesapp.composeApp-lifecycle-runtime-ktx-release-26 C:\Users\taufi\.gradle\caches\8.13\transforms\7cde987d362a3c7e6b75267382dc8922\transformed\lifecycle-runtime-ktx-release\res
+com.example.notesapp.composeApp-runtime-saveable-release-27 C:\Users\taufi\.gradle\caches\8.13\transforms\7e2dd0158c0913b1a76c89b2dbca9901\transformed\runtime-saveable-release\res
+com.example.notesapp.composeApp-core-bundle-debug-28 C:\Users\taufi\.gradle\caches\8.13\transforms\90dafc500b3374a774d4509b24f25fc0\transformed\core-bundle-debug\res
+com.example.notesapp.composeApp-navigation-compose-2.8.3-29 C:\Users\taufi\.gradle\caches\8.13\transforms\938e395638f85d5b8dbc4f7ec68b0960\transformed\navigation-compose-2.8.3\res
+com.example.notesapp.composeApp-appcompat-resources-1.7.0-30 C:\Users\taufi\.gradle\caches\8.13\transforms\952ce23827417945f427975e2dadd308\transformed\appcompat-resources-1.7.0\res
+com.example.notesapp.composeApp-fragment-1.8.3-31 C:\Users\taufi\.gradle\caches\8.13\transforms\953e32ae62360d0b71729d7e18020f79\transformed\fragment-1.8.3\res
+com.example.notesapp.composeApp-graphics-path-1.0.1-32 C:\Users\taufi\.gradle\caches\8.13\transforms\9726c2a7226d557ec4fc2cf9e2c9fe09\transformed\graphics-path-1.0.1\res
+com.example.notesapp.composeApp-lifecycle-viewmodel-release-33 C:\Users\taufi\.gradle\caches\8.13\transforms\a07bc1a1efc1c54af4d65550715299bf\transformed\lifecycle-viewmodel-release\res
+com.example.notesapp.composeApp-fragment-ktx-1.8.3-34 C:\Users\taufi\.gradle\caches\8.13\transforms\a39632ecdb634df6d3928d8550f20f58\transformed\fragment-ktx-1.8.3\res
+com.example.notesapp.composeApp-startup-runtime-1.1.1-35 C:\Users\taufi\.gradle\caches\8.13\transforms\a3c30816697571d9474f2059e932e749\transformed\startup-runtime-1.1.1\res
+com.example.notesapp.composeApp-appcompat-1.7.0-36 C:\Users\taufi\.gradle\caches\8.13\transforms\abf7ef5e4313bf3e1054a21a17fa057d\transformed\appcompat-1.7.0\res
+com.example.notesapp.composeApp-activity-1.9.3-37 C:\Users\taufi\.gradle\caches\8.13\transforms\abfc11c31c671c3babae150bef6a7424\transformed\activity-1.9.3\res
+com.example.notesapp.composeApp-savedstate-1.2.1-38 C:\Users\taufi\.gradle\caches\8.13\transforms\b06d5b34f0d05b927914f70e0a16337b\transformed\savedstate-1.2.1\res
+com.example.notesapp.composeApp-navigation-runtime-ktx-2.8.3-39 C:\Users\taufi\.gradle\caches\8.13\transforms\b1ede5b5c885b74ff2a13216246d0ab3\transformed\navigation-runtime-ktx-2.8.3\res
+com.example.notesapp.composeApp-runtime-release-40 C:\Users\taufi\.gradle\caches\8.13\transforms\b7d78953999331da361c8b53e5528cf0\transformed\runtime-release\res
+com.example.notesapp.composeApp-lifecycle-process-2.8.7-41 C:\Users\taufi\.gradle\caches\8.13\transforms\c1410963895da4ccef3609211226e955\transformed\lifecycle-process-2.8.7\res
+com.example.notesapp.composeApp-ui-geometry-release-42 C:\Users\taufi\.gradle\caches\8.13\transforms\c7fcae2b35f439f4c898c055489e60b4\transformed\ui-geometry-release\res
+com.example.notesapp.composeApp-foundation-release-43 C:\Users\taufi\.gradle\caches\8.13\transforms\ca93ea6f08c20e88f562543fb280f470\transformed\foundation-release\res
+com.example.notesapp.composeApp-material3-release-44 C:\Users\taufi\.gradle\caches\8.13\transforms\cc881292a657ce8a29657183604b3e65\transformed\material3-release\res
+com.example.notesapp.composeApp-activity-ktx-1.9.3-45 C:\Users\taufi\.gradle\caches\8.13\transforms\d19b5b29750a60982191ae3f3cb6c226\transformed\activity-ktx-1.9.3\res
+com.example.notesapp.composeApp-material-icons-core-release-46 C:\Users\taufi\.gradle\caches\8.13\transforms\d2f65b5e996532488af2ebf1af16a4db\transformed\material-icons-core-release\res
+com.example.notesapp.composeApp-ui-unit-release-47 C:\Users\taufi\.gradle\caches\8.13\transforms\d538c58d84f9a1afa2e5e2f948f705db\transformed\ui-unit-release\res
+com.example.notesapp.composeApp-lifecycle-livedata-core-2.8.7-48 C:\Users\taufi\.gradle\caches\8.13\transforms\e60e673909cfe2b86d34301bfb9686e3\transformed\lifecycle-livedata-core-2.8.7\res
+com.example.notesapp.composeApp-profileinstaller-1.3.1-49 C:\Users\taufi\.gradle\caches\8.13\transforms\ebdfd7efabb023db4927f3c6f56af505\transformed\profileinstaller-1.3.1\res
+com.example.notesapp.composeApp-core-1.13.1-50 C:\Users\taufi\.gradle\caches\8.13\transforms\ee0a194ca02036d5c09d249e4f85735a\transformed\core-1.13.1\res
+com.example.notesapp.composeApp-sqlite-framework-2.4.0-51 C:\Users\taufi\.gradle\caches\8.13\transforms\ee48cae09c8cad0d5324d06e5232fae5\transformed\sqlite-framework-2.4.0\res
+com.example.notesapp.composeApp-ui-release-52 C:\Users\taufi\.gradle\caches\8.13\transforms\f242ee1c595ecf0b16ee9b71c65105aa\transformed\ui-release\res
+com.example.notesapp.composeApp-navigation-runtime-2.8.3-53 C:\Users\taufi\.gradle\caches\8.13\transforms\f50e0cd814cf201f97b28a538306a105\transformed\navigation-runtime-2.8.3\res
+com.example.notesapp.composeApp-pngs-54 D:\semester 6\PAM\tugas_praktikum\tugas8\composeApp\build\generated\res\pngs\debug
+com.example.notesapp.composeApp-resValues-55 D:\semester 6\PAM\tugas_praktikum\tugas8\composeApp\build\generated\res\resValues\debug
+com.example.notesapp.composeApp-updated_navigation_xml-56 D:\semester 6\PAM\tugas_praktikum\tugas8\composeApp\build\generated\updated_navigation_xml\debug
+com.example.notesapp.composeApp-packageDebugResources-57 D:\semester 6\PAM\tugas_praktikum\tugas8\composeApp\build\intermediates\incremental\debug\packageDebugResources\merged.dir
+com.example.notesapp.composeApp-packageDebugResources-58 D:\semester 6\PAM\tugas_praktikum\tugas8\composeApp\build\intermediates\incremental\debug\packageDebugResources\stripped.dir
+com.example.notesapp.composeApp-debug-59 D:\semester 6\PAM\tugas_praktikum\tugas8\composeApp\build\intermediates\merged_res\debug\mergeDebugResources
+com.example.notesapp.composeApp-androidDebug-60 D:\semester 6\PAM\tugas_praktikum\tugas8\composeApp\src\androidDebug\res
+com.example.notesapp.composeApp-androidMain-61 D:\semester 6\PAM\tugas_praktikum\tugas8\composeApp\src\androidMain\res
+com.example.notesapp.composeApp-debug-62 D:\semester 6\PAM\tugas_praktikum\tugas8\composeApp\src\debug\res
+com.example.notesapp.composeApp-main-63 D:\semester 6\PAM\tugas_praktikum\tugas8\composeApp\src\main\res
