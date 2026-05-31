@@ -1,0 +1,39 @@
+CREATE TABLE Note (
+    id         INTEGER PRIMARY KEY AUTOINCREMENT,
+    title      TEXT    NOT NULL,
+    content    TEXT    NOT NULL,
+    created_at INTEGER NOT NULL,
+    updated_at INTEGER NOT NULL
+);
+
+CREATE INDEX note_updated ON Note(updated_at DESC);
+
+selectAll:
+SELECT * FROM Note ORDER BY updated_at DESC;
+
+selectById:
+SELECT * FROM Note WHERE id = ?;
+
+search:
+SELECT * FROM Note
+WHERE title  LIKE '%' || :query || '%'
+   OR content LIKE '%' || :query || '%'
+ORDER BY updated_at DESC;
+
+insert:
+INSERT INTO Note(title, content, created_at, updated_at)
+VALUES (?, ?, ?, ?);
+
+update:
+UPDATE Note
+SET title = ?, content = ?, updated_at = ?
+WHERE id = ?;
+
+delete:
+DELETE FROM Note WHERE id = ?;
+
+deleteAll:
+DELETE FROM Note;
+
+count:
+SELECT COUNT(*) FROM Note;
